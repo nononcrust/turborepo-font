@@ -1,0 +1,13 @@
+{
+  "name": "@repo/font",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts",
+    "./index.css": "./src/index.css"
+  },
+  "dependencies": {
+    "next": "^15.3.1"
+  }
+}
